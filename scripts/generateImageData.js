@@ -23,7 +23,7 @@ const QUALITY = {
 const sizes = {
   [SIZE.SMALL]: 768,
   [SIZE.MEDIUM]: 1024,
-  [SIZE.LARGE]: 1200
+  [SIZE.LARGE]: 1440
 }
 
 // Get dimensions of an image
