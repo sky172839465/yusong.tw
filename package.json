@@ -106,7 +106,7 @@
     "sharp": "^0.33.5",
     "simple-git": "^3.27.0",
     "tw-to-css": "^0.0.12",
-    "vite": "^6.2.5",
+    "vite": "^6.2.6",
     "vite-bundle-analyzer": "^0.16.2",
     "vite-node": "^3.0.4",
     "vite-plugin-markdown": "^2.2.0",
